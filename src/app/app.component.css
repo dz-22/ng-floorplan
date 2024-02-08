@@ -1,0 +1,13 @@
+.home{
+  text-align: center;
+  width: 1000px;
+  height: 550px;
+
+  padding: 50px;
+
+}
+.noth{
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+  width: 700px;
+}
